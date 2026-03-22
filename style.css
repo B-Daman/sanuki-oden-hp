@@ -127,7 +127,7 @@ a:hover { color: var(--color-primary-dark); }
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('images_webp/_dsf5363.webp') center center / cover no-repeat;
+  background: url('images_webp/dsf5363.webp') center center / cover no-repeat;
   overflow: hidden;
 }
 .hero-overlay {
@@ -556,7 +556,7 @@ a:hover { color: var(--color-primary-dark); }
    下層ページ共通
    =========================== */
 .page-hero {
-  background: linear-gradient(rgba(58, 46, 37, 0.6), rgba(58, 46, 37, 0.7)), url('images_webp/_dsf5353.webp') center center / cover no-repeat;
+  background: linear-gradient(rgba(58, 46, 37, 0.6), rgba(58, 46, 37, 0.7)), url('images_webp/dsf5353.webp') center center / cover no-repeat;
   color: var(--color-white);
   padding: 120px 0 60px;
   text-align: center;
