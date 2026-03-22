@@ -1,0 +1,5 @@
+images/ 
+*.csv 
+*.pdf 
+*.bak 
+desktop.ini 
